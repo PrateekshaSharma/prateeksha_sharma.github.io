@@ -22,21 +22,17 @@ repository               : "academicpages/academicpages.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
+  author:
   name: "Prateeksha Sharma"
-  avatar: "/images/profile.jpg"
-  bio: "Structural Engineering | Computational Engineering"
-  location: "India / USA"
-  email: "your-email@example.com"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Graduate student at University of Southern California"
+  email: "psharma7@usc.edu"
   github: "PrateekshaSharma"
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Prateeksha Sharma"
+  bio              : "Graduate student at University of Southern California"
+  email: "psharma7@usc.edu"
 
   # Academic websites
   academia         : # URL
