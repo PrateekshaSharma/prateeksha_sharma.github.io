@@ -20,7 +20,7 @@ repository               : "prateekshasharma/prateekshasharma.github.io"
 # Site Author
 author:
   name             : "Prateeksha Sharma"
-  avatar           : "/images/profile.png"
+  avatar: "/images/12.jpeg"
   bio              : "Incoming MS Student, Structural Engineering · University of Southern California (Fall 2026). Interests: uncertainty quantification, stochastic mechanics, and computational FEM."
   email            : "psharma7@usc.edu"
   github           : "prateekshasharma"
