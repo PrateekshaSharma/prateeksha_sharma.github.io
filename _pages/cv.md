@@ -11,54 +11,29 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Structural Engineering, University of Southern California, 2026
+* B.Tech in Civil Engineering, Institute of Engineering and Technology(affiliated to AKTU), 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* June 2024-Aug 2024: Intern
+  * American Insitute of Steel Construction
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  Aug 2017-Dec 2019: Assistant Design Engineer
+  * Span Structures
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
+* Python
+* MATLAB
+* LaTeX
+* Git & GitHub
+* ABAQUS
+* FEniCS
+* AutoCAD\
+* 
+**Projects**
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ Creation of public utility map for road maintenance and streetlight using GIS
+An aid for repair and maintenance of the roads and streetlights to the civil authorities, which enables to view the potholes and faulty streetlights on the map created using ArcGIS and GPS device.
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
