@@ -6,7 +6,7 @@ permalink: /
 header: false
 ---
 
-**Prateeksha Sharma**.
+## **PRATEEKSHA SHARMA**
 
 I am an incoming Structural Engineering graduate student at the University of Southern California interested in Computational Engineering, FEM, and Data Science.
 ##  Research Interests
