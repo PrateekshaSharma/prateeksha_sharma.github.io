@@ -6,14 +6,11 @@ permalink: /
 header: false
 ---
 
-Hi, I'm **Prateeksha Sharma**.
+**Prateeksha Sharma**.
 
-I am a Structural Engineering graduate student interested in Computational Engineering, FEM, and Data Science.
-##  Current Focus
-- MATLAB for structural simulations  
-- Python for data analysis  
-- Learning FEM  
-
-##  Goals
-- Build strong computational engineering projects  
-- Prepare for research and PhD-level work  
+I am an incoming Structural Engineering graduate student at the University of Southern California interested in Computational Engineering, FEM, and Data Science.
+##  Research Interests
+Stochastic finite element methods
+Uncertainty quantification & polynomial chaos expansions
+Computational structural mechanics
+Finite element methods for nonlinear systems
