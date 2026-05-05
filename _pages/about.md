@@ -6,9 +6,9 @@ permalink: /
 header: false
 ---
 
-I am an incoming Structural Engineering graduate student at the University of Southern California interested in Computational Engineering, FEM, and Data Science.
+I am an incoming Structural Engineering graduate student at the University of Southern California interested in Computational Mechanics, FEM, and Data Science.
 ##  Research Interests
-Stochastic finite element methods
-Uncertainty quantification & polynomial chaos expansions
 Computational structural mechanics
-Finite element methods for nonlinear systems
+Finite element methods
+Uncertainty quantification & polynomial chaos expansions
+Machine learning for structural systems
