@@ -6,7 +6,7 @@ permalink: /
 header: false
 ---
 
-I am an incoming Structural Engineering graduate student at the University of Southern California interested in Computational Mechanics, FEM, and Data Science.
+I am an incoming Structural Engineering graduate student at the University of Southern California interested in Computational Mechanics and FEM.
 ##  Research Interests
 Computational structural mechanics  
 Finite element methods  
