@@ -1,6 +1,6 @@
 ---
 title: "Beam Deflection Uncertainty Propagation"
-excerpt: "Monte Carlo simulation of beam deflection with uncertain load and elastic modulus inputs.<br/><img src='/images/500x300.png'>"
+excerpt: "Monte Carlo simulation of beam deflection with uncertain load and elastic modulus inputs.<br/><img src='/images/Figure_1.png'>"
 collection: portfolio
 ---
 
