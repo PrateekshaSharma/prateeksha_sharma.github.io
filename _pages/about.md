@@ -11,4 +11,4 @@ I am an incoming Structural Engineering graduate student at the University of So
 Computational structural mechanics  
 Finite element methods  
 Uncertainty quantification & polynomial chaos expansions  
-  
+Machine Learning  
